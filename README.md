@@ -28,27 +28,27 @@ Reinforcement machine learning is a machine learning model that is similar to su
 # Common machine learning algorithms
 A number of machine learning algorithms are commonly used. These include:
 
-## Neural networks:
+### Neural networks:
 
-## Linear regression:
+### Linear regression:
 
-## Logistic regression:
+### Logistic regression:
 
-## Clustering: 
+### Clustering: 
 
-## Decision trees: 
+### Decision trees: 
 
-## Random forests: 
+### Random forests: 
 
-## Speech recognition: 
+### Speech recognition: 
 
-## Customer service: 
+### Customer service: 
 
-## Computer vision:  
+### Computer vision:  
 
-## Recommendation engines: 
+### Recommendation engines: 
 
-## Automated stock trading:
+### Automated stock trading:
 
-## Fraud detection:
+### Fraud detection:
 
