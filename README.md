@@ -1,4 +1,7 @@
 # What is Machine Learning?
+<p align="center">
+      <img src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2017/07/what-is-machine-learning.jpg" >
+</p>
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
 
 Over the last couple of decades, the technological advances in storage and processing power have enabled some innovative products based on machine learning, such as Netflix’s recommendation engine and self-driving cars.
@@ -28,27 +31,27 @@ Reinforcement machine learning is a machine learning model that is similar to su
 # Common machine learning algorithms
 A number of machine learning algorithms are commonly used. These include:
 
-## Neural networks:
+### Neural networks:
 
-## Linear regression:
+### Linear regression:
 
-## Logistic regression:
+### Logistic regression:
 
-## Clustering: 
+### Clustering: 
 
-## Decision trees: 
+### Decision trees: 
 
-## Random forests: 
+### Random forests: 
 
-## Speech recognition: 
+### Speech recognition: 
 
-## Customer service: 
+### Customer service: 
 
-## Computer vision:  
+### Computer vision:  
 
-## Recommendation engines: 
+### Recommendation engines: 
 
-## Automated stock trading:
+### Automated stock trading:
 
-## Fraud detection:
+### Fraud detection:
 
